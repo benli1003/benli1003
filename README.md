@@ -7,7 +7,7 @@ I'm Ben and I'm currently studying Computer Science at the University of Marylan
 ## 🚀 Quick Project Overview:
 
 ### **Interviewlab.dev**
-A real-time mock interview platform with 100+ users featuring GPT-4o AI assistance and in-browser code execution. Built with Go, TypeScript, React, Redis, and PostgreSQL with WebSocket support for low-latency collaboration.
+A real-time mock interview platform featuring GPT-4o AI assistance and in-browser code execution.
 **Tech Stack:** `Golang` `TypeScript` `React` `Redis` `PostgreSQL` `WebSockets` `OpenAI API` `Piston API` `AWS`
 
 ### **CitySage.net** 
@@ -15,5 +15,5 @@ Urban intelligence dashboard detecting and summarizing real-time events in Washi
 **Tech Stack:** `Python` `YOLOv8` `Firebase` `React` `Roboflow API` `OpenAI API` `AWS`
 
 ### **TerpBites.net**
-Full-stack web app providing real-time nutritional data from UMD Dining Services to 50+ active users. Built with React, Flask, and AWS Lambda with dynamic web scraping and secure REST API.
+Full-stack web app providing real-time nutritional data from UMD Dining Services through automated webscraping.
 **Tech Stack:** `Python` `JavaScript` `React` `MySQL` `Flask` `HTML/CSS` `AWS`
