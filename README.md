@@ -12,7 +12,7 @@ A real-time mock interview platform featuring GPT-4o AI assistance and in-browse
 
 ### **CitySage.net** 
 Urban intelligence dashboard detecting and summarizing real-time events in Washington, DC using live traffic cameras and AI. Features custom YOLOv8 object detection with 90%+ accuracy and automated event summaries.
-**Tech Stack:** `Python` `YOLOv8` `Firebase` `React` `Roboflow API` `OpenAI API` `AWS`
+**Tech Stack:** `Python` `YOLOv8` `PostgreSQL` `React` `Roboflow API` `OpenAI API` `AWS`
 
 ### **TerpBites.net**
 Full-stack web app providing real-time nutritional data from UMD Dining Services through automated webscraping.
